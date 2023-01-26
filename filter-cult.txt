@@ -25,3 +25,5 @@ syncthing.net##div.alert
 www.electronjs.org##.announcement-banner
 www.hostinger.com.ar##.ukraine-banner
 www.scamadviser.com###bylp-popup-overlay
+www.cgtrader.com##.ukranian-badge
+www.cgtrader.com##a[data-track-name^="Support Ukraine"]
